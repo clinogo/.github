@@ -15,3 +15,7 @@ Local taxes, currencies and languages, built in rather than bolted on.
 
 **Insight, Not Just Records.**
 See what's working, what's running low and where the money goes, at a glance.
+
+---
+
+**Learn more at [clinogo.com](https://www.clinogo.com)**
